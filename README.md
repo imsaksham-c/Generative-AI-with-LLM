@@ -1,43 +1,50 @@
-# Generative AI With Large Language Models
+# Generative AI with Large Language Models
 
-Welcome to the repository for the "Generative AI with Large Language Models" course by DeepLearning.AI and Amazon Web Services on Coursera. Here, you'll find all the resources associated with the course.
+The transformers architecture, introduced in 2017 through the influential "Attention is All You Need" paper, has been a game-changer in the realm of generative AI.
 
-## Course Overview
+📚 **What's Inside?**
 
-### Syllabus
+🚀 **PART 1: LLM Pre-Training**
 
-**Week 1:**
-- Transformer Architecture
-- Prompting and Prompt Engineering
-- Generative AI Project Lifecycle
-- Pre-training LLMs
+- Understanding Large Language Models (LLMs)
+- Real-world Use Cases for LLM Applications
+- Evolution from Pre-Transformers to Transformers
+- Mechanisms of Text Generation in Transformers
+- Significance of Prompts in the Generation Process
+- Deep Dive into the Generative AI Project Life Cycle
+- Navigating Challenges in Pre-Training LLMs
+- Optimal Configurations for Effective LLM Pre-Training
+- When and Why Pre-Training LLMs Is Beneficial
 
-**Week 2:**
-- Instruction Fine-Tuning
-- Model Evaluation and Benchmarks
-- Parameter Efficient Fine-Tuning (PEFT)
-- LoRA and Soft Prompts
+💡 **PART 2: LLM Fine Tuning**
 
-**Week 3:**
-- Reinforcement Learning from Human Feedback (RLHF)
-- Proximal Policy Optimization
-- Model Optimization for Deployment
-- LLM Application Architecture
+- Insights into Instruction Fine Tuning
+- Addressing Catastrophic Forgetting in Fine Tuning
+- Evaluation Criteria for Fine-Tuned Models
+- Unpacking Parameter Efficient Fine Tuning (PEFT)
 
-## Code and Assignments
+🌐 **PART 3: RLHF & Application**
 
-The `code` directory includes detailed examples for three coding assignments:
+- Aligning AI Models with Human Values
+- Fundamentals of Reinforcement Learning from Human Feedback (RLHF)
+- Strategies to Mitigate Reward Hacking
+- Scalability through Self-Supervision with Constitutional AI
+- Optimization and Deployment of LLMs for Inferencing
+- Practical Implementation in Various Applications
+- Architecture Considerations for LLM Applications
+- Embracing Responsible AI Practices
+- Handy Cheatsheet for the Generative AI Project Lifecycle
 
-- `Summerize-Dialogue.ipynb`: Assignment cobering Prompt Engineering.
+💻 **Code and Assignments**
+
+The [code directory](/code) includes detailed examples for three coding assignments:
+
+- `Summerize-Dialogue.ipynb`: Assignment covering Prompt Engineering.
 - `Fine-Tuning Lab.ipynb`: Assignment covering Instruction Fine-Tuning using LoRA.
 - `RLHF Lab.ipynb`: Assignment covering Reinforcement Learning From Human Feedback to align LLMs.
 
-## Markdown
+🎓 **Course Certificate**
 
-The `markdown` directory provides the same content as above but in Markdown format for easy reading directly on GitHub.
-
-## Course Certificate
-
-You can view my [course certificate here](https://github.com/imsaksham-c/Generative-AI-with-LLM/blob/main/Coursera%20HHK4C46ZE9ZC.pdf).
+You can view my course certificate [here](https://github.com/imsaksham-c/Generative-AI-with-LLM/blob/main/certificate.jpg).
 
 Feel free to explore the code and resources to enhance your understanding of Generative AI with Large Language Models! 🚀

@@ -47,6 +47,6 @@ The [code directory](/code) includes detailed examples for three coding assignme
 
 🎓 **Course Certificate**
 
-![Course Certificate]()
+![Course Certificate](https://github.com/imsaksham-c/Generative-AI-with-LLM/blob/main/coursera.jpg)
 
 Feel free to explore the code and resources to enhance your understanding of Generative AI with Large Language Models! 🚀
